@@ -1,7 +1,6 @@
 # Project Overview
 
-In this project you are given a web-based application that reads RSS feeds. The original developer of this application clearly saw the value in testing, they've already included [Jasmine](http://jasmine.github.io/) and even started writing their first test suite! Unfortunately, they decided to move on to start their own company and we're now left with an application with an incomplete test suite. That's where you come in.
-
+In this project I was given a pre-existing application that reads RSS feeds. I had to write a test suits using Jasmine.
 
 ## Why this Project?
 
@@ -16,11 +15,11 @@ In this project I was given a pre-existing application that reads RSS feeds. I h
 
 In order to run the application you can:
 * Download as .zip file, or
-*Clone or fork this project:
+* Clone or fork this project:
 
 `$ git clone https://github.com/stearruda/fend-feed-reader-testing.git`
 
-After that, open the index.html and check the test results.
+* After that, open the index.html and check the test results.
 
 ## Project Requirements / Features
 
